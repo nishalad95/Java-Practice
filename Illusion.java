@@ -1,7 +1,4 @@
-package HomeworkAssignments;
-
-/* Nisha Lad, CSE 142, Winter 2016, Section BE -Michelle Cho
-* Programming Homework Assignment #3, 01/20/16
+/* Nisha Lad
 * This program produces a graphic image of an optical illusion using Drawing Panel
 * and other Java graphical features. 
 */
@@ -13,8 +10,7 @@ public class Illusion {
 		   
 		DrawingPanel panel = new DrawingPanel(500, 400);
 		panel.setBackground(Color.GRAY);
-	    Graphics g = panel.getGraphics();
-		   
+		Graphics g = panel.getGraphics();
 		subFigure(g, 0, 0, 90, 3);
 		subFigure(g, 120, 10, 90, 3);
 		subFigure(g, 250, 50, 80, 5);
