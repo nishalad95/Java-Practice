@@ -1,6 +1,4 @@
-package grammarSolverHomework;
-/**Nisha Lad, CSE 143, Spring 2016, Section AA - TA: Garrett Deardorff
- * Programming Homework Assignment #4, 23/04/16
+/**Nisha Lad
  * This class manipulates the grammar of a file in Backus-Naur Form. 
  * Clients can get all non-terminals of the grammar file, they can check if a certain symbol 
  * is a non-terminal in the defined grammar and generate random occurrences of the grammar. */
