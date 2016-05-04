@@ -1,6 +1,4 @@
-package HomeworkAssignments;
-/*Nisha Lad, CSE 142, Winter 2016, Section BE -Michelle Cho
-* Programming Homework Assignment #1, 01/06/16
+/*Nisha Lad
 * This program prints out the first 7 verses of a classic Christmas song */
 
 public class Song {
