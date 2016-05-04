@@ -1,7 +1,4 @@
-package HomeworkAssignments;
-
-// Nisha Lad, CSE 142, Winter 2016, Section BE -Michelle Cho
-// Programming Homework Assignment #4, 01/28/16
+// Nisha Lad
 // The program generates a student's overall grade report for a certain class
 
 import java.util.*;
