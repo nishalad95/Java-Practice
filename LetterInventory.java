@@ -1,6 +1,4 @@
-package homeworkAssignments;
-//Nisha Lad, CSE 143, Spring 2016, Section AA - TA: Garrett Deardorff
-//Programming Homework Assignment #1, 31/03/16
+//Nisha Lad
 //This class keeps track of an inventory of letters of the alphabet
 
 public class LetterInventory {
