@@ -1,6 +1,4 @@
-package HomeworkAssignments;
-// Nisha Lad, CSE 142, Winter 2016, Section BE -Michelle Cho
-// Programming Homework Assignment #5, 05/02/16
+// Nisha Lad
 // The program allows the user to play a game where the program thinks of 
 // a random number and accepts guesses from the user until they guess correctly
 
