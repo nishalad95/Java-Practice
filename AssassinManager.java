@@ -1,6 +1,4 @@
-package assassinHomework;
-/**Nisha Lad, CSE 143, Spring 2016, Section AA - TA: Garrett Deardorff
- * Programming Homework Assignment #3, 14/04/16
+/**Nisha Lad
  * This class is used within the game Assassin, contained within AssassinMain, 
  * to keep a track of who each person is stalking and the history of who killed them. */
 
