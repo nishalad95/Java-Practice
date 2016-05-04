@@ -1,6 +1,5 @@
 package HomeworkAssignments;
-// Nisha Lad, CSE 142, Winter 2016, Section BE -Michelle Cho
-// Programming Homework Assignment #7, 26/02/16
+// Nisha Lad
 // The program allows a user to process data from a Genome file and output information into a file
 
 import java.util.*;
