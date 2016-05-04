@@ -1,4 +1,3 @@
-package HomeworkAssignments;
 /*Nisha Lad, CSE 142, Winter 2016, Section BE -Michelle Cho
 *Programming Homework Assignment #2, 01/13/16
 *This program produces an Ascii Art version of the Space Needle in Seattle
