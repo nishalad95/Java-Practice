@@ -1,6 +1,4 @@
-package homeworkAssignments;
-/**Nisha Lad, CSE 143, Spring 2016, Section AA - TA: Garrett Deardorff
- * Programming Homework Assignment #2, 10/04/16
+/**Nisha Lad
  * This class examines HTML from a file or URL to figure out whether it represents a "valid" sequences of tags */
 
 import java.util.*;
