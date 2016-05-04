@@ -1,6 +1,4 @@
-package HomeworkAssignments;
-//Nisha Lad, CSE 142, Winter 2016, Section BE -Michelle Cho
-//Programming Homework Assignment #6, 05/02/16
+//Nisha Lad
 //The program allows the user to play the Mad Libs game:
 //Short stories that have placeholders to be filled in
 
