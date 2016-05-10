@@ -1,4 +1,3 @@
-package EvilHangman;
 // Nisha Lad, CSE 143, Spring 2016, Section AA - TA: Garrett Deardorff
 // Programming Homework Assignment #5, 28/04/16
 // This class creates a new HangmanManager object and manages the current state of the game
