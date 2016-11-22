@@ -1,5 +1,4 @@
-// Nisha Lad, CSE 143, Spring 2016, Section AA - TA: Garrett Deardorff
-// Programming Homework Assignment #6, 15/05/16
+// Nisha Lad,
 // This class creates a new Anagrams object that takes a set of words in a dictionary, finds all
 // anagram phrases that match a given word/phrase.
 // The client can obtain a set of all words that can be made from the letters of a 
